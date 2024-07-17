@@ -1,0 +1,27 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MarinaTret/Node.js.git"
+  },
+  "author": "Marina Tretiakova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaTret/Node.js/issues"
+  },
+  "homepage": "https://github.com/MarinaTret/Node.js#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/compat": "^1.1.1",
+    "@eslint/js": "^9.7.0",
+    "eslint": "^9.7.0",
+    "eslint-plugin-react": "^7.34.4",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.16.1"
+  }
+}
